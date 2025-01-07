@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Cars 1",
+            "iscore": 7.3,
+            "rating": "PG",
+            "runtime": 106,
+            "released": [2006, 6, 9],
+            "country": "USA",
+            "posters": ["img/Cars_1.webp","img/Cars_2.webp"],
+            "imdb": "https://www.imdb.com/title/tt0317219/",
+            "website": "https://www.pixar.com/cars",
+            "likes": 955,
+            "dislikes": 1,
+            "posterindex": 0
+      },
+      {
+            "title": "The Hunger Games: Catching Fire",
+            "iscore": 7.5,
+            "rating": "PG-13",
+            "runtime": 146,
+            "released": [2013, 11, 22],
+            "country": "USA",
+            "posters": ["img/HungerGames1.webp","img/HungerGames2.jpg","img/HungerGames3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1951264/",
+            "website": "https://www.lionsgate.com/movies/the-hunger-games-catching-fire",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "Spider-Man",
+            "iscore": 7.4,
+            "rating": "PG-13",
+            "runtime": 121,
+            "released": [2022, 10, 7],
+            "country": "USA",
+            "posters": ["img/spiderman.png"],
+            "imdb": "https://www.imdb.com/title/tt0145487/",
+            "website": "https://www.sonypictures.com/movies/spiderman",
+            "likes": 1027,
+            "dislikes": 157,
+            "posterindex": 0
       }
 ]
