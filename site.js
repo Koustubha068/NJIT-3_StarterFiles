@@ -24,7 +24,7 @@
 const vue_app = Vue.createApp({
       // This automatically imports your movies.json file and puts it into
       //   the variable: movies
-      created () {
+      created() {
             fetch('movies.json').then(response => response.json()).then(json => {
                   this.movies = json
             })
@@ -33,6 +33,9 @@ const vue_app = Vue.createApp({
         return {
             // This holds your movies.json data.
             movies: [],
+            title:'IMDB + Koustubha\'s Top 8 Movies',
+            owner:'Koustubha Kolla',
+            github:'https://github.com/Koustubha068/NJIT-3_StarterFiles'
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
          
       }
